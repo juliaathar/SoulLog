@@ -1,0 +1,9 @@
+CREATE DATABASE bd_soullog;
+
+USE bd_soullog;
+
+CREATE TABLE tb_ususarios (
+	id BINARY(16) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    senha VARCHAR(255) NOT NULL
+);
