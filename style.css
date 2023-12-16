@@ -1,0 +1,139 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(./assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* layout grid / formatacao geral */
+
+.layout-grid {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: bold;
+    color: #003400;
+}
+
+h2{
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #003400;
+}
+
+p{
+    font-size: 16px;
+    font-family: Montserrat;
+    color: #000000;
+}
+
+.login-section {
+    width: 1440px;
+    height: 1024px;
+}
+
+.login{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#img-log {
+    width: 493.46px;
+    height: 480.85px;
+
+
+}
+
+.login-auth{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.login-img {
+    width: 722px;
+    height: 1024px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url(./assets/imgs/Group\ 9\ \(1\).png);
+}
+
+.frm{
+    width: 507px;
+    height: 230px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.frm-input{
+    width: 300px;
+    height: 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    border-radius: 8px;
+    border: none;
+
+    background-color: #D9D9D9;
+    font-family: Montserrat;
+}
+
+.icons{
+    width: 319px;
+    height: 90px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+}
+
+.log{
+    width: 507px;
+    height: 286px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#btn{
+    width: 350px;
+    height: 50px;
+
+    font-family: Montserrat;
+    border-radius: 100px;
+    background-color: #009229;
+    text-align: center;
+    color: #FFFF;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
