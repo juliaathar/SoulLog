@@ -2,9 +2,13 @@
   SoulLog - Controle de Gerenciamento de Ambientes 🏢
 </h1>
 
-# Visão Geral 🌐
+<p align="center">
+O projeto foi desenvolvido durante o Hackathon CO.DE School que ocorreu no dia 16/12/2023, desafiando 12 equipes a criar uma solução para controle de ocupação de ambientes corporativos em apenas 4 horas.
+</p>
 
-O Controle de Gerenciamento de Ambientes é uma aplicação desenvolvida para auxiliar no controle de superlotação em ambientes corporativos, promovendo a segurança durante a pandemia e contribuindo para o conforto e bem-estar dos colaboradores. A aplicação informa a disponibilidade de ambientes e implementa um sistema de controle de escala de trabalho para evitar superlotação nos setores.
+## Visão Geral 🌐
+
+O SoulLog é uma aplicação desenvolvida para auxiliar no controle de superlotação em ambientes corporativos, promovendo a segurança durante a pandemia e contribuindo para o conforto e bem-estar dos colaboradores. A aplicação informa a disponibilidade de ambientes e implementa um sistema de controle de escala de trabalho para evitar superlotação nos setores.
 
 ## Funcionalidades 🚀
 
