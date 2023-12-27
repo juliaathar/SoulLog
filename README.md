@@ -45,3 +45,10 @@ O Controle de Gerenciamento de Ambientes é uma aplicação desenvolvida para au
  <img align="center" alt="css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
 
+## 🤝 Contribuidores
+
+* **Júlia Aben-Athar** - [juliaathar](https://github.com/juliaathar)
+* **Gustavo Souza** - [gugaSouza-dev](https://github.com/gugaSouza-dev)
+* **Ingrid Kyle** - [ingridkyle1](https://github.com/ingridkyle1)
+*  **Anderson Bertolo** - [AndersonBertolo](https://github.com/AndersonBertolo)
+*  **Claudio Porto**  
